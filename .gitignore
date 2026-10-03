@@ -7,11 +7,9 @@ dsforms
 *.db
 
 # Environment
-.env
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -35,3 +33,5 @@ testdata/fuzz/
 
 # Local Claude Code permissions
 .claude/settings.local.json
+config.bat
+node_modules
